@@ -6,8 +6,10 @@ require "formula"
 
 class Id3ted < Formula
   homepage "http://muennich.github.io/id3ted/"
-  url "http://muennich.github.com/id3ted/release/id3ted-1.0b3.tar.gz"
-  sha1 "2502fdc01860a75ea4b9d26060c2312923cdc3ee"
+#  url "http://muennich.github.com/id3ted/release/id3ted-1.0b3.tar.gz"
+#  sha1 "2502fdc01860a75ea4b9d26060c2312923cdc3ee"
+  url "http://muennich.github.com/id3ted/release/id3ted-1.0.tar.gz"
+  sha1 "53055883b15319cad495f8ec353883d926d647d4"
 
   depends_on 'taglib'
   depends_on 'libmagic'
