@@ -23,7 +23,7 @@ class Tomcat7kegonly < Formula
     # Install files
     libexec.install Dir["*"]
     (libexec+"logs").mkpath
-    Dir["#{libexec}/bin/*.sh"].each { |f| ln_s f, bin }
+#    Dir["#{libexec}/bin/*.sh"].each { |f| ln_s f, bin }
 
     (share/"fulldocs").install resource("fulldocs") if build.with? "fulldocs"
   end
