@@ -7,7 +7,7 @@ cask 'cisco-anyconnect' do
   homepage 'http://backe.eu'
   license :unknown
 
-  pkg 'anyconnect-macosx-i386-4.3.02039-k9.pkh'
+  pkg 'anyconnect-macosx-i386-4.3.02039-k9.pkg'
 
   uninstall pkgutil: 'com.cisco.pkg.anyconnect.*'
 end
