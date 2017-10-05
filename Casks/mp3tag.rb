@@ -5,7 +5,6 @@ cask 'mp3tag' do
   url 'https://www.dropbox.com/s/vfe55q300xox0nf/Mp3Tag.tgz?dl=1'
   name 'Mp3Tag'
   homepage 'http://backe.eu'
-  license :unknown
 
   app 'Mp3Tag.app'
 end

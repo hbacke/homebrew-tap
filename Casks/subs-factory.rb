@@ -5,7 +5,6 @@ cask 'subs-factory' do
   url 'https://www.dropbox.com/s/huayxhkszm4cuhp/Subs%20Factory.tgz?dl=1'
   name 'Subs Factory'
   homepage 'http://backe.eu'
-  license :unknown
 
   app 'Subs Factory.app'
 end

@@ -5,7 +5,6 @@ cask 'samsung-easy-print-manager' do
   url 'https://www.dropbox.com/s/vbobqbz21efam3h/EPM_Mac_V1.03.45.03.zip?dl=1'
   name 'Samsung Printer Drivers'
   homepage 'http://backe.eu'
-  license :unknown
 
   pkg 'PrinterApplication/MAC_Installer/MAC_PrinterManager/Installer.pkg'
 

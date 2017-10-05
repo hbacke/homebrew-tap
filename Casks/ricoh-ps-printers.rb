@@ -5,7 +5,6 @@ cask 'ricoh-ps-printers' do
   url 'http://support.ricoh.com/bb/pub_e/dr_ut_e/0001260/0001260308/V2200/Ricoh_PS_Printers_Vol2_EXP_LIO_2.2.0.0.dmg'
   name 'Ricoh PS Printers'
   homepage 'http://backe.eu'
-  license :unknown
 
   pkg 'Ricoh_PS_Printers_Vol2_EXP_LIO_Driver.pkg'
 

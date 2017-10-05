@@ -5,7 +5,6 @@ cask 'juniper-pulse' do
   url 'https://www.dropbox.com/s/5o3yraf0ber5pmh/ps-pulse-mac-5.2r5-installer.dmg?dl=1'
   name 'Pulse Secure'
   homepage 'http://backe.eu'
-  license :unknown
 
   pkg 'PulseSecure.pkg'
 

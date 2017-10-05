@@ -5,7 +5,6 @@ cask 'shb-bankid-driver' do
   url 'https://www.dropbox.com/s/a76cotlj4vxw8no/shb_elcapitan.tgz?dl=1'
   name 'SHB babkid Driver'
   homepage 'http://backe.eu'
-  license :unknown
 
   pkg 'shb_elcapitan.pkg'
 

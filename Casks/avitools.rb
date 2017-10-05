@@ -5,7 +5,6 @@ cask 'avitools' do
   url "http://www.emmgunn.com/downloads/avitools#{version}.zip"
   name 'AVItools'
   homepage 'http://www.emmgunn.com/subtools/avitoolshome.html'
-  license :commercial
 
   app "avitools#{version}/AVItools.app"
 end

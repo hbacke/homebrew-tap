@@ -5,7 +5,6 @@ cask 'tag-rename' do
   url 'https://www.dropbox.com/s/mvj5mzurfuye1i3/TagRename.tgz?dl=1'
   name 'TagRename'
   homepage 'http://backe.eu'
-  license :unknown
 
   app 'TagRename.app'
 end

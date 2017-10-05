@@ -5,7 +5,6 @@ cask 'cisco-anyconnect' do
   url 'https://www.dropbox.com/s/6yxgnyfw9ykrw2r/anyconnect-macosx-i386-4.3.02039-k9.tgz?dl=1'
   name 'AnyConnect'
   homepage 'http://backe.eu'
-  license :unknown
 
   pkg 'anyconnect-macosx-i386-4.3.02039-k9.pkg'
 

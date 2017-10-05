@@ -5,7 +5,6 @@ cask 'subtools' do
   url "http://www.emmgunn.com/downloads/subtools#{version}.zip"
   name 'MKVtools'
   homepage 'http://www.emmgunn.com/subtools/mkvtoolshome.html'
-  license :commercial
 
   app "subtools#{version}/SUBtools.app"
 end
