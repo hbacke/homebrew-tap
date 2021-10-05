@@ -9,7 +9,7 @@ class Id3ted < Formula
 #  url "http://muennich.github.com/id3ted/release/id3ted-1.0b3.tar.gz"
 #  sha1 "2502fdc01860a75ea4b9d26060c2312923cdc3ee"
   url "https://muennich.github.io/id3ted/release/id3ted-1.0b3.tar.gz"
-  sha256 "a254aa9e2d91b975c4464251f78bd18d350666403af363b68c92664fee09ad9d"
+  sha256 "2a571ef96bc160e118e95441c3823870399a0a60681eb9e178bfffa651788ccd"
 
   depends_on 'taglib'
   depends_on 'libmagic'
